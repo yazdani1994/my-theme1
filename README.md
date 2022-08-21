@@ -1,4 +1,5 @@
-Hi My name is Mansour Kalagar <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+Hi My name is Taha Yazdani <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+<br>
 <br>
 
 Software Engineer & Web Developer
@@ -7,9 +8,6 @@ Software Engineer & Web Developer
 
 <h2 align="left">
  <abc>
-  
-  
-  <br>
    
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
    <br>
@@ -45,6 +43,6 @@ Software Engineer & Web Developer
 
 <a href="http://www.github.com/yazdani1994"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yazdani1994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/yazdani1994"><img src="https://activity-graph.herokuapp.com/graph?username=yazdani1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/yazdani1994"><img src="https://activity-graph.herokuapp.com/graph?username=yazdani1994&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/yazdani1994" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdani1994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

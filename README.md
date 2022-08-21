@@ -1,8 +1,15 @@
-<p align="center"><a><img width="80%" alt="Hello, I'm MR. Bug !" src="./assets/gh-readme-header.png" /></a></p>
+    <p align="center">
+      <a
+        ><img
+          width="80%"
+          alt="Hello, I'm MR. Bug !"
+          src="./assets/gh-readme-header.png"
+      /></a>
+    </p>
 
-<br />
-
-<h2 align="left">
+    <br />
+    <p>
+    <h2 align="left">
       <abc>
         <br />Hi there!
         <img
@@ -20,6 +27,7 @@
       </abc>
     </h2>
     <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+    </p>
     <p align="left">
       <a
         href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
@@ -38,7 +46,7 @@
           height="36"
           alt="CSS3"
       /></a>
-            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
         ><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
           width="36"
@@ -93,7 +101,7 @@
           height="40"
         />
       </a>
-            <a
+      <a
         href="https://www.adobe.com/uk/products/photoshop.html"
         target="_blank"
         rel="noreferrer"
@@ -103,7 +111,7 @@
           height="36"
           alt="Photoshop"
       /></a>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
         ><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
           width="36"
@@ -120,12 +128,14 @@
           height="36"
           alt="XD"
       /></a>
-        <br/>
-      
-          ### Socials
-  <br/>
-      
-            <a
+    </p>
+
+    <br />
+
+    ### Socials
+    <br />
+    <p>
+      <a
         href="http://www.instagram.com/tyazdani.js"
         target="_blank"
         rel="noreferrer"
@@ -143,10 +153,7 @@
           width="32"
           height="32"
       /></a>
-      <a
-        href="https://www.stackoverflow.com/"
-        target="_blank"
-        rel="noreferrer"
+      <a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"
         ><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
           width="32"
@@ -161,34 +168,31 @@
           width="32"
           height="32"
       /></a>
-      
-          ### Badges
-
-    <b>My GitHub Stats</b>
-
-    <a href="http://www.github.com/yazdani1994"
-      ><img
-        src="https://github-readme-stats.vercel.app/api?username=yazdani1994&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-        alt="yazdani1994's GitHub stats"
-    /></a>
-
-    <a href="http://www.github.com/yazdani1994"
-      ><img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yazdani1994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-    /></a>
-
-    <a href="http://www.github.com/yazdani1994"
-      ><img
-        src="https://activity-graph.herokuapp.com/graph?username=yazdani1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-        alt="GitHub Commits Graph"
-    /></a>
-
-    <a href="https://github.com/yazdani1994" align="left"
-      ><img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdani1994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-        alt="Top Languages"
-    /></a>
-  
     </p>
-    
-    
+    ### Badges
+    <p>
+      <b>My GitHub Stats</b>
+
+      <a href="http://www.github.com/yazdani1994"
+        ><img
+          src="https://github-readme-stats.vercel.app/api?username=yazdani1994&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+          alt="yazdani1994's GitHub stats"
+      /></a>
+
+      <a href="http://www.github.com/yazdani1994"
+        ><img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=yazdani1994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+      /></a>
+
+      <a href="http://www.github.com/yazdani1994"
+        ><img
+          src="https://activity-graph.herokuapp.com/graph?username=yazdani1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+          alt="GitHub Commits Graph"
+      /></a>
+
+      <a href="https://github.com/yazdani1994" align="left"
+        ><img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdani1994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+          alt="Top Languages"
+      /></a>
+    </p>

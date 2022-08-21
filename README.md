@@ -1,10 +1,13 @@
-<p align="center"><a><img width="80%" alt="I'm Taha Yazdani !" src="./assets/gh-readme-header.png" /></a></p>
+Hi My name is Mansour Kalagar <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<br>
 
+Software Engineer & Web Developer
+---------------------------------
 <br />
 
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  
   
   <br>
    

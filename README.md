@@ -4,14 +4,14 @@ My Nick name is : Mr.Bug <img src="https://user-images.githubusercontent.com/568
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/56879548/185807447-4200a481-b7cf-4214-ae76-25ffd24e7014.png" alt="Coder GIF" width="20" height="20"> Software Engineer & Web Developer
+Software Engineer & Web Developer
 ---------------------------------
 <h2 align="left">
  <abc>
    
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-   <br>
-   <h2 align="left"> <img src="https://user-images.githubusercontent.com/56879548/185807378-77df68e1-a768-4140-b418-2954c37e8331.png" alt="Coder GIF" width="20" height="20">  Technologies and Tools I use:</h2>
+
+<h2 align="left">Technologies and Tools I use:</h2>
 
 <p align="left">
 

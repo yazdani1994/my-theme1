@@ -2,15 +2,15 @@ Hi My name is Taha Yazdani <img src="https://user-images.githubusercontent.com/4
 <br>
 <br>
 
-Software Engineer & Web Developer
+<img src="https://user-images.githubusercontent.com/56879548/185807447-4200a481-b7cf-4214-ae76-25ffd24e7014.png" alt="Coder GIF" width="30" height="30"> Software Engineer & Web Developer
 ---------------------------------
 <h2 align="left">
  <abc>
    
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
    <br>
-   <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-   
+   <h2 align="left"> <img src="https://user-images.githubusercontent.com/56879548/185807378-77df68e1-a768-4140-b418-2954c37e8331.png" alt="Coder GIF" width="30" height="30">  Technologies and Tools I use:</h2>
+
 <p align="left">
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>

@@ -21,41 +21,47 @@
     </h2>
     <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
     <p align="left">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
+      <a
+        href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+          width="36"
+          height="36"
+          alt="HTML5"
+      /></a>
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+          width="36"
+          height="36"
+          alt="CSS3"
+      /></a>
+            <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+          width="36"
+          height="36"
+          alt="Bootstrap"
+      /></a>
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+          width="36"
+          height="36"
+          alt="Javascript"
+      /></a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+          width="36"
+          height="36"
+          alt="React"
+      /></a>
       <a href="https://nodejs.org" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -64,14 +70,13 @@
           height="40"
         />
       </a>
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-        />
-      </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+          width="36"
+          height="36"
+          alt="MongoDB"
+      /></a>
       <a href="https://git-scm.com/" target="_blank">
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -88,27 +93,102 @@
           height="40"
         />
       </a>
+            <a
+        href="https://www.adobe.com/uk/products/photoshop.html"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg"
+          width="36"
+          height="36"
+          alt="Photoshop"
+      /></a>
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+          width="36"
+          height="36"
+          alt="Figma"
+      /></a>
+      <a
+        href="https://www.adobe.com/uk/products/xd.html"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
+          width="36"
+          height="36"
+          alt="XD"
+      /></a>
+        <br/>
+      
+          ### Socials
+  <br/>
+      
+            <a
+        href="http://www.instagram.com/tyazdani.js"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+          width="32"
+          height="32"
+      /></a>
+      <a
+        href="https://www.linkedin.com/in/taha-yazdani-870301125/"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+          width="32"
+          height="32"
+      /></a>
+      <a
+        href="https://www.stackoverflow.com/"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+          width="32"
+          height="32"
+      /></a>
+      <a
+        href="https://www.twitter.com/yazdani_mit7"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+          width="32"
+          height="32"
+      /></a>
+      
+          ### Badges
+
+    <b>My GitHub Stats</b>
+
+    <a href="http://www.github.com/yazdani1994"
+      ><img
+        src="https://github-readme-stats.vercel.app/api?username=yazdani1994&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+        alt="yazdani1994's GitHub stats"
+    /></a>
+
+    <a href="http://www.github.com/yazdani1994"
+      ><img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=yazdani1994&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+    /></a>
+
+    <a href="http://www.github.com/yazdani1994"
+      ><img
+        src="https://activity-graph.herokuapp.com/graph?username=yazdani1994&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+        alt="GitHub Commits Graph"
+    /></a>
+
+    <a href="https://github.com/yazdani1994" align="left"
+      ><img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazdani1994&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+        alt="Top Languages"
+    /></a>
+  
     </p>
     
-    <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-    - :computer: I'm currently working on MERN Stack - :hourglass_flowing_sand:
-    Exploring Google Cloud & Microsoft Azure - :rocket: Always ready to
-    collaborate for Dev Experiments - :man_technologist: Former Project Lead
-    Intern at GirlScript Foundation - :dart: Life Hack: "Explore :fire: and
-    Explode :bomb: with knowledge" - :trophy: Grand Finalist of "Smart India
-    Hackathon 2019" - Software Edition - :zap: Fun fact: I love to attend
-    Meetups for learning & Conferences for Networking<br />
-
-    <h2 align="left">:heart: Let's get connected:</h2>
-
-    [![Linkedin
-    Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri)
-    [![Twitter
-    Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram)
-    [![Facebook
-    Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram)
-    [![Instagram
-    Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-    [![Linkedin
-    Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+    

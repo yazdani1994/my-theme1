@@ -8,7 +8,7 @@
     </p>
 
     <br />
-    <p>
+
     <h2 align="left">
       <abc>
         <br />Hi there!
@@ -27,7 +27,7 @@
       </abc>
     </h2>
     <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-    </p>
+
     <p align="left">
       <a
         href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
@@ -134,6 +134,7 @@
 
     ### Socials
     <br />
+
     <p>
       <a
         href="http://www.instagram.com/tyazdani.js"
@@ -169,7 +170,9 @@
           height="32"
       /></a>
     </p>
+
     ### Badges
+
     <p>
       <b>My GitHub Stats</b>
 

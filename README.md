@@ -4,7 +4,7 @@ My Nick name is : Mr.Bug <img src="https://user-images.githubusercontent.com/568
 <br>
 <br>
 
-Software Engineer & Web Developer
+Software Engineer & Front_end Developer
 ---------------------------------
 <h2 align="left">
  <abc>

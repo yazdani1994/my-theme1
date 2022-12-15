@@ -1,8 +1,7 @@
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 
 <br/>
-<br/>
-<br/>
+
 Hi My name is Taha Yazdani <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 My Nick name is : Mr.Bug <img src="https://user-images.githubusercontent.com/56879548/185807636-0a5cf8bd-c08c-4e76-b6ab-e11808c5934c.png" alt="BEE" width="30" height="30">
@@ -43,6 +42,10 @@ Software Engineer & Front-end Developer
 ### Socials
 
 <p align="left"> <a href="http://www.instagram.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/taha-yazdani-870301125/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yazdani_mit7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://discord.com/channels/@tyazdaniit#6878" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801142-f2fe3811-dd4b-4ea9-9366-e17e683d200a.png" width="32" height="32" /></a> <a href="https://wa.me/+989150064036" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801217-2da3b9c2-8e3e-45ed-a14c-f8e8d8721144.png" width="32" height="32" /></a> <a href="https://t.me/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801233-56a347cd-ba58-425d-8569-496827058382.png" width="32" height="32" /></a> <a href="https://mail.google.com/mail/mrbug.dev" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801288-bb747575-9abb-498e-a8ad-b786dd55ca0b.png" width="32" height="32" /></a> </p>
+  
+### OSs
+  
+<a href="http://www.apple.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/mac-cosmetic-png-logo" width="32" height="32" /></a> <a href="http://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/microsoft-logo-png" width="32" height="32" /></a> <a href="http://www.apple.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/linux" width="32" height="32" /></a>
   
 <a href="https://github.com/tyazdaniit"><img alt="TyazdaniiT's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=tyazdaniit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   

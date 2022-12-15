@@ -36,6 +36,8 @@ Software Engineer & Front-end Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185807518-3cd45507-9a06-4e88-a46b-6acdebd50194.png" width="36" height="36" alt="wordpress" /></a>
+ 
+<a href="http://www.instagram.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/tsX8Yh7dElgr/steam-circled" width="32" height="32" />
 
 </p>
 
@@ -51,6 +53,8 @@ Software Engineer & Front-end Developer
   
 <a href="https://github.com/tyazdaniit/github-readme-stats"><img alt="TyazdaniiT's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tyazdaniit&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/tyazdaniit/github-readme-stats"><img alt="tyazdaniit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyazdaniit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  
+<hr/>
   
 if you like what i do, maybe consider buying me a Book/Coffee 🥺
 

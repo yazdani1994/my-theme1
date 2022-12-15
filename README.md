@@ -30,7 +30,6 @@ Software Engineer & Front-end Developer
 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
  
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185807518-3cd45507-9a06-4e88-a46b-6acdebd50194.png" width="36" height="36" alt="wordpress" /></a>
 

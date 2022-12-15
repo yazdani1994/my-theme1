@@ -45,7 +45,8 @@ Software Engineer & Front-end Developer
   
 ### OSs
   
-<a href="http://www.apple.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/mac-cosmetic-png-logo" width="32" height="32" /></a> <a href="http://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/microsoft-logo-png" width="32" height="32" /></a> <a href="http://www.apple.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/linux" width="32" height="32" /></a>
+  
+<a href="http://www.apple.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/mac-cosmetic-png-logo" width="32" height="32" /></a> <a href="http://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/microsoft-logo-png" width="32" height="32" /></a> <a href="http://www.apple.com" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/pics/linux](https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" width="32" height="32" /></a>
   
 <a href="https://github.com/tyazdaniit"><img alt="TyazdaniiT's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=tyazdaniit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   

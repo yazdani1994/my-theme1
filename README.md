@@ -13,7 +13,7 @@ Software Engineer & Front-end Developer
 <h2 align="left">
  <abc>
    
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="500">
 <br/>
 <br/>
 

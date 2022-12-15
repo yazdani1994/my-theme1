@@ -2,9 +2,9 @@
 
 <br/>
 
-Hi My name is Taha Yazdani <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+Hi My name is Taha Yazdani <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40">
 
-My Nick name is : Mr.Bug <img src="https://user-images.githubusercontent.com/56879548/185807636-0a5cf8bd-c08c-4e76-b6ab-e11808c5934c.png" alt="BEE" width="30" height="30">
+My Nick name is : Mr.Bug <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="50" height="50">
 <br>
 <br>
 
@@ -15,6 +15,8 @@ Software Engineer & Front-end Developer
    
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <br/>
+<br/>
+
 <img src="https://media1.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="500">
 
 <h2 align="left">Technologies and Tools I use:</h2>

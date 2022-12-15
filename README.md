@@ -36,9 +36,6 @@ Software Engineer & Front-end Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185807518-3cd45507-9a06-4e88-a46b-6acdebd50194.png" width="36" height="36" alt="wordpress" /></a>
- 
-<a href="http://www.instagram.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/207975925-044bb71c-aa7c-4b43-b69d-61e7d5290c91.png
-" width="32" height="32" />
 
 </p>
 

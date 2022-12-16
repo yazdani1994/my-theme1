@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi My name is Taha Yazdani <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40">
+Hi My name is <img src="https://logos.textgiraffe.com/logos/logo-name/Taha-designstyle-colors-m.png" alt="taha" width="50"> Yazdani <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="60">
 
 My Nick name is : Mr.Bug <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="50" height="50">
 <br>

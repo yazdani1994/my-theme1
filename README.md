@@ -3,9 +3,9 @@
 <br/>
 
 Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-My name is <img src="https://logos.textgiraffe.com/logos/logo-name/Taha-designstyle-colors-m.png" alt="taha" width="80" height="40"> 
+My name is <img src="https://logos.textgiraffe.com/logos/logo-name/Taha-designstyle-colors-m.png" alt="taha" width="80" height="80"> 
 
-My Nick name is : Mr.Bug <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="70" height="40">
+My Nick name is : Mr.Bug <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="70" height="70">
 <br>
 
 Software Engineer & Front-end Developer

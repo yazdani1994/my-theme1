@@ -58,8 +58,10 @@ Software Engineer & Front-end Developer
 ### Socials
 
 <p align="left"> <a href="http://www.instagram.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/taha-yazdani-870301125/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yazdani_mit7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://discord.com/channels/@tyazdaniit#6878" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801142-f2fe3811-dd4b-4ea9-9366-e17e683d200a.png" width="32" height="32" /></a> <a href="https://wa.me/+989150064036" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801217-2da3b9c2-8e3e-45ed-a14c-f8e8d8721144.png" width="32" height="32" /></a> <a href="https://t.me/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801233-56a347cd-ba58-425d-8569-496827058382.png" width="32" height="32" /></a> <a href="https://mail.google.com/mail/mrbug.dev" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801288-bb747575-9abb-498e-a8ad-b786dd55ca0b.png" width="32" height="32" /></a> <a href="https://youtube.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="32" height="32" /></a> </p>
-  
-<a href="https://www.google.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com.png" width="36" height="36" alt="cv" />
+
+### CV
+
+<a href="https://cvbuilder.me/Resume/fa/fbe528f2-fdbc-49ea-8010-32ecb67dd994?template=template29" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com.png" width="36" height="36" alt="cv" />
   
 <hr/>
   

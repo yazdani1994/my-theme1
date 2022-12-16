@@ -2,10 +2,11 @@
 
 <br/>
 
-<img src="https://logos.textgiraffe.com/logos/logo-name/32452555-designstyle-kaboom-o.png" alt="hi" width="200" height="100"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="100">
-<img src="https://logos.textgiraffe.com/logos/logo-name/32452515-designstyle-venezia-o.png" alt="taha" width="200" height="100"> <img src="https://logos.textgiraffe.com/logos/logo-name/32452493-designstyle-pastel-o.png" alt="taha" width="200" height="100"> 
+<img src="https://logos.textgiraffe.com/logos/logo-name/32452555-designstyle-kaboom-o.png" alt="hi" width="200" height="200"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="100">
 
-<img src="https://logos.textgiraffe.com/logos/logo-name/32452524-designstyle-venezia-o.png" width="100" height="100"> <img src="https://logos.textgiraffe.com/logos/logo-name/32452542-designstyle-sunset-o.png" width="100" height="100"> <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="100" height="100">
+<img src="https://logos.textgiraffe.com/logos/logo-name/32452515-designstyle-venezia-o.png" alt="taha" width="250" height="150"> <img src="https://logos.textgiraffe.com/logos/logo-name/32452493-designstyle-pastel-o.png" alt="taha" width="250" height="150"> 
+
+<img src="https://logos.textgiraffe.com/logos/logo-name/32452524-designstyle-venezia-o.png" width="250" height="150"> <img src="https://logos.textgiraffe.com/logos/logo-name/32452542-designstyle-sunset-o.png" width="250" height="150"> <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="250" height="150">
 
 <br>
 

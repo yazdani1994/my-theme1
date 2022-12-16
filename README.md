@@ -2,10 +2,11 @@
 
 <br/>
 
-Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-My name is <img src="https://logos.textgiraffe.com/logos/logo-name/Taha-designstyle-colors-m.png" alt="taha" width="80" height="80"> 
+<img src="https://logos.textgiraffe.com/logos/logo-name/32452555-designstyle-kaboom-o.png" alt="hi" width="100" height="100"> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+<img src="https://logos.textgiraffe.com/logos/logo-name/32452515-designstyle-venezia-o.png" alt="taha" width="100" height="100"> <img src="https://logos.textgiraffe.com/logos/logo-name/32452493-designstyle-pastel-o.png" alt="taha" width="100" height="100"> 
 
-My Nick name is : Mr.Bug <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="70" height="70">
+<img src="https://logos.textgiraffe.com/logos/logo-name/32452524-designstyle-venezia-o.png" width="100" height="100"> <img src="https://logos.textgiraffe.com/logos/logo-name/32452542-designstyle-sunset-o.png" width="100" height="100"> <img src="https://media1.giphy.com/media/ayYyMdETDlEMYkicDN/giphy.gif" alt="BEE" width="100" height="100">
+
 <br>
 
 Software Engineer & Front-end Developer

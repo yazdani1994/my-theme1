@@ -10,9 +10,8 @@
 
 Software Engineer & Front-end Developer & Designer
 ---------------------------------
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" width="36" height="36"/>
-<h3>my Website : </h3>
-<a href="https://google.com/" target="_blank">AdakDevelopers</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" width="36" height="36"/><h3>my Website : <a href="https://google.com/" target="_blank">AdakDevelopers</a> </h3>
+
 
 <br>
 

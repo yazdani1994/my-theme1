@@ -12,8 +12,10 @@ Software Engineer & Front-end Developer & Designer
 ---------------------------------
 <h2 align="left">
  <abc>
-### This is my Website : <a href="https://google.com/" target="_blank"> <img src="https://icons8.com/icon/oZUjyJ1vU9d7/domain-name" alt="git" width="36" height="36"/>AdakDevelopers </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" alt="Adakdevelopers" width="36" height="36"/> my Website :  <a href="https://google.com/" target="_blank">AdakDevelopers </a>
 
+<br>
+<br>
    
 <img src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="500">
 <br/>

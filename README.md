@@ -12,7 +12,8 @@ Software Engineer & Front-end Developer & Designer
 ---------------------------------
 <h2 align="left">
  <abc>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" alt="Adakdevelopers" width="36" height="36"/> my Website :  <a href="https://google.com/" target="_blank">AdakDevelopers </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" alt="Adakdevelopers" width="36" height="36"/> <h3> my Website : </h3><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Emoji_u1f449.svg" alt="hand" width="20" height="20"/>  <a href="https://google.com/" target="_blank">AdakDevelopers </a>
+  
 
 <br>
 <br>

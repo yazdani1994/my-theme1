@@ -8,10 +8,12 @@
 
 <br>
 
-Software Engineer & Front-end Developer
+Software Engineer & Front-end Developer & Designer
 ---------------------------------
 <h2 align="left">
  <abc>
+### This is my Website : <a href="https://google.com/" target="_blank"> <img src="https://icons8.com/icon/oZUjyJ1vU9d7/domain-name" alt="git" width="36" height="36"/>AdakDevelopers </a>
+
    
 <img src="https://media0.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Coder GIF" width="500">
 <br/>
@@ -24,7 +26,7 @@ Software Engineer & Front-end Developer
 <p align="left">
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="git" width="36" height="36"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
-<a href="https://github.com/yazdani1994" target="_blank"> <img src="https://user-images.githubusercontent.com/56879548/186238137-57741b81-576f-4874-bbce-50430c4c9b7b.png" alt="github" width="36" height="36"/> </a>
+<a href="https://github.com/tyazdaniit" target="_blank"> <img src="https://user-images.githubusercontent.com/56879548/186238137-57741b81-576f-4874-bbce-50430c4c9b7b.png" alt="github" width="36" height="36"/> </a>
  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -60,11 +62,7 @@ Software Engineer & Front-end Developer
 
 ### Socials
 
-<p align="left"> <a href="http://www.instagram.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/taha-yazdani-870301125/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yazdani_mit7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://discord.com/channels/@tyazdaniit#6878" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801142-f2fe3811-dd4b-4ea9-9366-e17e683d200a.png" width="32" height="32" /></a> <a href="https://wa.me/+989150064036" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801217-2da3b9c2-8e3e-45ed-a14c-f8e8d8721144.png" width="32" height="32" /></a> <a href="https://t.me/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801233-56a347cd-ba58-425d-8569-496827058382.png" width="32" height="32" /></a> <a href="https://mail.google.com/mail/mrbug.dev" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801288-bb747575-9abb-498e-a8ad-b786dd55ca0b.png" width="32" height="32" /></a> <a href="https://youtube.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="32" height="32" /></a> </p>
-
-### CV
-
-<a href="https://cvbuilder.me/Resume/fa/fbe528f2-fdbc-49ea-8010-32ecb67dd994?template=template29" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com.png" width="36" height="36" alt="cv" />
+<p align="left"> <a href="http://www.instagram.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/taha-yazdani-870301125/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://discord.com/channels/@tyazdaniit#6878" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801142-f2fe3811-dd4b-4ea9-9366-e17e683d200a.png" width="32" height="32" /></a> <a href="https://wa.me/+989150064036" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801217-2da3b9c2-8e3e-45ed-a14c-f8e8d8721144.png" width="32" height="32" /></a> <a href="https://t.me/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801233-56a347cd-ba58-425d-8569-496827058382.png" width="32" height="32" /></a> <a href="https://mail.google.com/mail/tyazdaniit" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/56879548/185801288-bb747575-9abb-498e-a8ad-b786dd55ca0b.png" width="32" height="32" /></a> <a href="https://youtube.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="32" height="32" /></a> </p>
   
 <hr/>
   

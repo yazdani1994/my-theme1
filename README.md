@@ -10,7 +10,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" width="36" height="36"/> Software Engineer & Front-end Developer & Designer
 ---------------------------------
-<h3>my Website : <a href="https://google.com/" target="_blank">AdakDevelopers</a> </h3>
+<h3>my Website : <a href="https://adakdevelopers.github.io/" target="_blank">AdakDevelopers</a> </h3>
 
 <h2 align="left">
  <abc>
@@ -82,7 +82,8 @@ if you like what i do, maybe consider buying me a Book/Coffee 🥺
 
 <a href="https://www.buymeacoffee.com/tyazdani72" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A book" width="150" ></a>
   
-if you are in IRAN : 
+if you are in IRAN :
+
 <a href="http://www.coffeete.ir/tyazdaniit">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>

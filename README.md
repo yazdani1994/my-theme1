@@ -8,9 +8,9 @@
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" width="36" height="36"/> Software Engineer & Front-end Developer & Designer
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" width="36" height="36"/> Software Engineer & Front-end Developer & Web Designer
 ---------------------------------
-<h3>my Website : <a href="https://adakdevelopers.ir" target="_blank">AdakDevelopers</a> </h3>
+<h3>my Website : <a href="https://adakdevelopers.ir" target="_blank">Adak Developers</a> </h3>
 
 <h2 align="left">
  <abc>

@@ -69,7 +69,7 @@
   
 <hr/>
   
-<a href="https://github.com/tyazdaniit"><img alt="TyazdaniiT's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=tyazdaniit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/yazdaniit"><img alt="yazdaniiT's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yazdaniit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=yazdaniit&theme=radical&border_radius=6&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
   

@@ -10,7 +10,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/GNOME_Web_logo_40.png" width="36" height="36"/> Software Engineer & Front-end Developer & HelpDesk IT
 ---------------------------------
-<h3>My CV. Website : <a href="https://tahayazdani.ir" target="_blank">Taha Yazdani</a> </h3> <a href="https://tahayazdani.ir" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/3zrk1Ps/ty.png" width="32" height="32" /></a>
+<h3><a href="https://tahayazdani.ir" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/3zrk1Ps/ty.png" width="32" height="32" /></a> My CV. Website : <a href="https://tahayazdani.ir" target="_blank">Taha Yazdani</a> </h3>
 
 <h2 align="left">
  <abc>
